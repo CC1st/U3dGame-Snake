@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8a644b61c2f88e44c943f0cc25914c67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - msgText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - lengthText: {instanceID: 0}
+  - bgImg: {instanceID: 0}
+  - pauseImage: {instanceID: 0}
+  - BGM: {fileID: 8300000, guid: c213a7b6c318df449895fc871abc4690, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
