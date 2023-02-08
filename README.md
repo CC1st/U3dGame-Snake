@@ -1,4 +1,5 @@
 # [Game]Snake
+This is a simple 2d game that requires mouse and keyboard operation.
 
 ## How to get
 If you want to try this game, please download **PlayProgram.zip** file, then unzip this file under Windows system, and click the **贪吃蛇.exe** to open the game program.
